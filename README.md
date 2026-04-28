@@ -1,7 +1,3 @@
-Here's a clean, GitHub-ready project description for you:
-
----
-
 ## 🏠 House Haven — Bengaluru Real Estate Price Predictor
 
 **House Haven** is an end-to-end machine learning web application that predicts residential property prices across Bengaluru using a trained Random Forest model. The project covers the full data science pipeline — from raw data ingestion and exploratory analysis to model deployment via an elegant, premium-styled Streamlit interface.
@@ -17,7 +13,3 @@ The deployed app (`app.py`) allows users to select a **location**, **square foot
 
 ### 🛠️ Tech Stack
 `Python` · `Pandas` · `Scikit-learn` · `Streamlit` · `Matplotlib` · `Seaborn` · `Joblib`
-
----
-
-Feel free to ask if you'd like a shorter version, a `README.md` file, or badges added!
